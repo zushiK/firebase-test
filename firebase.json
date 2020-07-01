@@ -1,8 +1,5 @@
 {
-  "hosting": 
-  [
-    {
-    "target" : "first",
+  "hosting": {
     "public": "dist",
     "ignore": [
       "firebase.json",
@@ -15,25 +12,5 @@
         "destination": "/index.html"
       }
     ]
-  },
-  {
-    "target" : "secound",
-    "public": "dist",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
-  },
-  {
-    "target": "staging",
-    "public": "dist"
   }
-  ]
 }
