@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "default": "tutorial-f4b33"
+  },
+  "targets": {
+    "tutorial-f4b33": {
+      "hosting": {
+        "secound": [
+          "tutorial-2-c0f6b"
+        ],
+        "first": [
+          "tutorial-f4b33"
+        ],
+        "staging": [
+          "staging-b25f1"
+        ],
+        "production": [
+          "testproject-238008"
+        ]
+      }
+    }
+  }
+}
