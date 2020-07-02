@@ -28,21 +28,21 @@ export default {
         {
           thumb: 'https://dummyimage.com/150x150/fcc/000.png&text=thumb1',
           src: 'https://dummyimage.com/600x600/fcc/000.png&text=Uploaded1',
-          caption: 'circle ci 1',
+          caption: 'test 1',
           width: 800, // required
           height: 600, // required
         },
         {
           thumb: 'https://dummyimage.com/150x150/fcc/000.png&text=thumb2',
           src: 'https://dummyimage.com/600x600/fcc/000.png&text=Uploaded2',
-          caption: 'circle ci 2',
+          caption: 'test 2',
           width: 800, // required
           height: 600, // required
         },
         {
           thumb: 'https://dummyimage.com/150x150/fcc/000.png&text=thumb3',
           src: 'https://dummyimage.com/600x600/fcc/000.png&text=Uploaded3',
-          caption: 'circle ci 3',
+          caption: 'test 3',
           width: 800, // required
           height: 600, // required
         }
